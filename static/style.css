@@ -1,0 +1,51 @@
+body{
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.header{
+    display: flex;
+    border-color: black;
+    background-color: rgba(137, 43, 226, 0.611);
+    text-decoration: none;
+    color:black;
+}
+.header #img{
+    width: 50px;
+    margin: -10px;
+}
+.header #my{
+    display: flex;
+    margin: 30px;
+}
+
+
+.a{
+    font-family: my;
+    text-align: center;
+
+}
+.a img{
+    width: 100%;
+}
+.products{
+    display: flex;
+    column-gap: 1%;
+}
+.products .prodoct{
+    width: 20%;
+    
+
+
+}
+.products .prodoct img {
+    width: 100%;
+    border-radius: 10%;
+
+
+}
+.pp i{
+    text-align: center;
+    
+   
+}
